@@ -7,3 +7,8 @@ Follow the download instructions on [dataframes.rcsb.org](http://dataframes.rcsb
 
 ## Step 2 - Check out the code from this project
 Clone this project and run the [examples](https://github.com/biodataframes/examples-java/tree/master/src/main/java/org/rcsb/dataframes).
+
+
+## Troubleshooting
+
+ * How to run [Apache Spark on Windows](spark_windows.md)
